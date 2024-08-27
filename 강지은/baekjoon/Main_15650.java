@@ -3,7 +3,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
-public class Main_15649 {
+
+public class Main_15650 {
 
 	static int N,M;
 	static List<Integer> nums = new ArrayList<>();
@@ -21,11 +22,11 @@ public class Main_15649 {
 
 		visit = new boolean[N+1];
 		
-		nPr(0);
+		nPr(1, 0);
 		System.out.println(sb.toString());
 	}
 
-	private static void nPr(int cnt) {
+	private static void nPr(int num, int cnt) {
 		if (cnt == M) {
 			for (int i = 0; i < nums.size(); i++) {
 				sb.append(nums.get(i)+" ");
@@ -36,13 +37,13 @@ public class Main_15649 {
 			return;
 		}
 		
-		for (int i = 1; i < N+1; i++) {
+		for (int i = num; i < N+1; i++) {
 			if (visit[i])
 				continue;
 			
 			nums.add(i);
 			visit[i] = true;
-			nPr(++cnt);
+			nPr(++num, ++cnt);
 			visit[i] = false;
 			nums.remove(--cnt);
 		}
