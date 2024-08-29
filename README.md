@@ -3,42 +3,38 @@
 </div>
 <br/>
 
-# 💯 알고리즘 스터디 📝
+# 📝 알고리즘 스터디 📝
+<br/>
+
+## 👨‍💻 스터디 멤버
+
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/antisdun"><img src="https://avatars.githubusercontent.com/antisdun" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kunzatt"><img src="https://avatars.githubusercontent.com/kunzatt" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yujeong789"><img src="https://avatars.githubusercontent.com/yujeong789" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/baehoonbae"><img src="https://avatars.githubusercontent.com/baehoonbae" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/y20ng"><img src="https://avatars.githubusercontent.com/y20ng" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/zyu22" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/antisdun"><b>antisdun</b></a></td>
+    <td align="center"><a href="https://github.com/kunzatt"><b>kunzatt</b></a></td>
+    <td align="center"><a href="https://github.com/yujeong789"><b>yujeong789</b></a></td>
+    <td align="center"><a href="https://github.com/baehoonbae"><b>baehoonbae</b></a></td>
+    <td align="center"><a href="https://github.com/y20ng"><b>y20ng</b></a></td>
+    <td align="center"><a href="https://github.com/zyu22"><b>zyu22</b></a></td>
+  </tr>
+</table>
+
+<br/>
 
 ## 2024-07-16 ~ ##
 
 - 5개 이상의 문제를 풀어 PR 하기
-- 플랫폼은 자유
+- 플랫폼: 자유
 - 마감 시간: 매주 **일요일 23시 59분** 
-- 마감 직전 너무 낮은 난이도의 문제를 풀이해 올리는 것은 지양합니다!!
 - 5개 이상 풀이 실패했을 경우 **한 문제당 벌금 1,000원**
-
-<br />
-<br />
-
-## ✅ 백준 문제 티어 보는 법
-1. solved.ac 홈페이지 회원가입을 한다(백준과 연동).
-2. 백준으로 간다.
-3. 우측 상단 '설정' -> 왼쪽 메뉴 탭의 '보기' -> solved.ac 티어를 '보기'로 설정 -> 변경
-
-<br/>
-<br/>
-
-## ✅ 참여 방법
-1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 `자신의 이름` 으로 폴더를 생성한다.
-3. 생성된 폴더에 자신의 소스코드를 업로드 한다. (폴더명에 콜론":" 안됩니다!)
-4. 이때 `commit 규칙`을 지키도록한다!
-5. 원본 저장소로 `Pull Request`를 한다. (매주 5문제 이상)
-6. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
-7. ***주의!! 기존 폴더를 지우면 안됩니다!!*** 개인 폴더 내부만 수정해주세요!
-
-<br />
-<br />
-
-## ✅ 소스코드 파일 이름 규칙
-- 자유롭게 작성 
-- 폴더명 또는 소스코드 파일명에 콜론 ":" 안됩니다 :D
 
 <br />
 <br />
@@ -46,11 +42,7 @@
 ## ✅ commit 규칙
 - commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간 
 - description: 문제 주소 (option)
-- 터미널에서 작성법: 
-```
-git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.net/problem/2557"
-```
-- 플랫폼 작성법 통일: 
+- 플랫폼 작성법:
   * [BOJ] - 백준 
   * [PGS] - 프로그래머스
   * [LTC] - 리트코드
@@ -64,21 +56,27 @@ git commit -m "[BOJ] Hello World / 브론즈5 / 1분" -m "https://www.acmicpc.ne
 ## ✅ PR 규칙
 - PR 제목: 이름 / 주차 / 몇 문제
 -  ```배성훈 / 2주차 / 8문제 ```
--  comment는 자유이나 가능하다면, 이번주에 풀었던 문제의 알고리즘 분류가 어떻게 되는지, <br> 어떤 문제가 어려웠는지 회고를 작성한다면 개인에게도 도움되고 다른 코드 리뷰어가 참고하기 좋을 것 같습니다 :)
-
 
 <br />
 <br />
 
-## ✅ (option)코드리뷰 규칙
-- PR에서 코드리뷰를 한다.
-- 전체 코드 흐름을 파악한 뒤, 이 분이 어떻게 풀었을까 이해를 한 후 
-- 의견제시
-  -   잘했다고 생각하는 부분
-  -   이렇게 하면 더 좋을 것 같다고 생각하는 부분
-  -   왜 이렇게 풀었는지 궁금한 부분
-  -   또 다른 풀이 방식 제시
-- 코드의 일부분에다 코드리뷰를 해도 되고 전체 코드 밑 or PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
+## ✍ 진행 상황
+|  | 강지은 | 김용명 | 김유정 | 배성훈 | 윤이영 | 지유림 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [JieunKang](https://github.com/antisdun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) |
+| Week 01</br>(24.07.23.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 02</br>(24.07.30.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 03</br>(24.08.06.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 04</br>(24.08.13.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 05</br>(24.08.20.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 06</br>(24.08.27.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 07</br>(24.09.03.) |  |  |  |  |  | 
 
-<br />
-<br />
+
+
+| 푼 문제 개수 | 표기 |
+| :---: | :---: |
+| 5문제 이상 | ✅ |
+| 1~4문제 | 1️⃣~4️⃣ |
+| 0문제 | ❌ <br/>(사유) |
+
