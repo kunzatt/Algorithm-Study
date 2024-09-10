@@ -60,7 +60,7 @@
 <br />
 <br />
 
-## ✍ 진행 상황
+## ✍ 풀이 상황
 |  | 강지은 | 김용명 | 김유정 | 배성훈 | 윤이영 | 지유림 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [JieunKang](https://github.com/antisdun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) |
@@ -71,5 +71,6 @@
 | Week 05</br>(24.08.20.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 | Week 06</br>(24.08.27.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 | Week 07</br>(24.09.03.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 08</br>(24.09.10.) |  |  |  |  |  | 
+| Week 08</br>(24.09.10.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
+| Week 09</br>(24.09.17.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
 
