@@ -8,7 +8,8 @@ public class Main_1916 {
 	static int N, M;
 	static int[][] weight;
 	static int[] distance;
-	static int max = 100000000;
+
+	static int max = 100000000; // 최대 노드 * 최대 간선
 	static int s, e;
 	
 	static class Node implements Comparable<Node>{
