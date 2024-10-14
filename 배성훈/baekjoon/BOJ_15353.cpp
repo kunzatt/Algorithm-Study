@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
+// 15353. 큰 수 A+B (2) / 실버3 / 12분
+
 int main() {
 	int n1, n2;
 	int idx = 0;
@@ -24,5 +26,6 @@ int main() {
 	for (int i = idx - 1; i >= 0; i--) {
 		cout << ans[i];
 	}
+
 	return 0;
 }
