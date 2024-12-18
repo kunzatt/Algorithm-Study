@@ -1,0 +1,88 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class Solution미로1 {
+	static int T = 10;
+	static int N = 16;
+	static int[][] map;
+	static int[][] drc = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+	static class Point {
+		int x, y;
+
+		public Point(int x, int y) {
+			super();
+			this.x = x;
+			this.y = y;
+		}
+	}
+	static Queue<Point> que;
+	static StringBuilder sb;
+	static boolean[][] visited;
+	public static void main(String[] args) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
+		
+		for(int t = 1; t <= T; t++) {
+			int testcase = Integer.parseInt(br.readLine());
+			
+			map = new int[N][N];
+			visited = new boolean[N][N];
+			que = new LinkedList<>();
+			
+			int x = 0;
+			int y = 0;
+			
+			for(int i = 0; i < N; i++) {
+				String s = br.readLine();
+				for(int j = 0; j < N; j++) {
+					map[i][j] = s.charAt(j) - '0';
+					if(map[i][j] == 2) {
+						x = i;
+						y = j;
+					}
+				}
+			}
+			
+			
+			int result = bfs(x, y);
+			
+			
+			sb.append("#" + t + " ").append(result).append("\n");
+		}
+		
+		System.out.println(sb);
+	}
+	
+	static int bfs(int x, int y) {
+		Queue<Point> que = new LinkedList<>();
+		que.offer(new Point(x, y));
+		visited[x][y] = true;
+
+		while(!que.isEmpty()) {
+			Point p = que.poll();
+			
+			if(map[p.x][p.y] == 3) {
+				return 1;
+			}
+			
+			for(int d = 0; d < 4; d++) {
+				int nx = p.x + drc[d][0];
+				int ny = p.y + drc[d][1];
+				
+				if(!check(nx, ny) || map[nx][ny] == 1) continue;
+				if(visited[nx][ny]) continue;
+				
+				que.offer(new Point(nx, ny));
+				visited[nx][ny] = true;
+			}
+		}
+		
+		return 0;
+	}
+	
+	static boolean check(int x, int y) {
+		return x >= 0 && x < N && y >= 0 && y < N;
+	}
+}
