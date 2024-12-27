@@ -12,7 +12,7 @@ public class Main_2503{
         StringTokenizer st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
 
-        for(int i = 123; i <= 987; i++){
+        for(int i = 123;i <= 987; i++){
             String str = Integer.toString(i);
 
             if(str.charAt(0) == '0' || str.charAt(1) == '0' || str.charAt(2) == '0') continue;	// 0이 들어가는 숫자는 패스
@@ -23,7 +23,7 @@ public class Main_2503{
 
         for(int i = 0; i < N; i++){
             st = new StringTokenizer(br.readLine());
-            int qnum = Integer.parseInt(st.nextToken()); 	// 물어보는 숫자
+            int q = Integer.parseInt(st.nextToken()); 	// 물어보는 숫자
             int s = Integer.parseInt(st.nextToken());	// 스트라이크 입력값
             int b = Integer.parseInt(st.nextToken());	// 볼 입력값
 
@@ -33,13 +33,13 @@ public class Main_2503{
                     int nb = 0;		// 새로운 볼
 
                     for(int k = 0; k < 3; k++){
-                        char qc = Integer.toString(qnum).charAt(k);	
+                        char qc = Integer.toString(q).charAt(k);	
 
                         for(int l = 0; l < 3; l++){
                             char ac = Integer.toString(num).charAt(l);
 
                             if(qc == ac && k == l ) ns++;
-                            else if(qc == ac && k != l ) nb++;
+                            else if(qc == ac && k  != l ) nb++;
                         }
                     }
 
