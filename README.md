@@ -16,6 +16,7 @@
     <td align="center"><a href="https://github.com/baehoonbae"><img src="https://avatars.githubusercontent.com/baehoonbae" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/y20ng"><img src="https://avatars.githubusercontent.com/y20ng" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/zyu22" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/dlacowns21" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/antisdun"><b>antisdun</b></a></td>
@@ -24,6 +25,7 @@
     <td align="center"><a href="https://github.com/baehoonbae"><b>baehoonbae</b></a></td>
     <td align="center"><a href="https://github.com/y20ng"><b>y20ng</b></a></td>
     <td align="center"><a href="https://github.com/zyu22"><b>zyu22</b></a></td>
+    <td align="center"><a href="https://github.com/dlacowns21"><b>dlacowns21</b></a></td>
   </tr>
 </table>
 
