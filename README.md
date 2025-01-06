@@ -16,6 +16,7 @@
     <td align="center"><a href="https://github.com/baehoonbae"><img src="https://avatars.githubusercontent.com/baehoonbae" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/y20ng"><img src="https://avatars.githubusercontent.com/y20ng" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/zyu22" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/dlacowns21" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/antisdun"><b>antisdun</b></a></td>
@@ -24,6 +25,7 @@
     <td align="center"><a href="https://github.com/baehoonbae"><b>baehoonbae</b></a></td>
     <td align="center"><a href="https://github.com/y20ng"><b>y20ng</b></a></td>
     <td align="center"><a href="https://github.com/zyu22"><b>zyu22</b></a></td>
+    <td align="center"><a href="https://github.com/dlacowns21"><b>dlacowns21</b></a></td>
   </tr>
 </table>
 
@@ -61,30 +63,30 @@
 <br />
 
 ## ✍ 풀이 상황
-|  | 강지은 | 김용명 | 김유정 | 배성훈 | 윤이영 | 지유림 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| GitHub | [JieunKang](https://github.com/antisdun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) |
-| Week 01</br>(24.07.23.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 02</br>(24.07.30.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 03</br>(24.08.06.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 04</br>(24.08.13.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 05</br>(24.08.20.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 06</br>(24.08.27.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 07</br>(24.09.03.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 08</br>(24.09.10.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 09</br>(24.09.17.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 10</br>(24.09.24.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 11</br>(24.10.01.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 12</br>(24.10.08.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 
-| Week 13</br>(24.10.15.) | ✅ | ❌(개인사정) | ✅ | ✅ | ✅ | ✅
-| Week 14</br>(24.10.22.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ 
-| Week 15</br>(24.10.29.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅   
-| Week 16</br>(24.11.05.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅   
-| Week 16</br>(24.11.12.) | ✅ | ✅ | ❌(개인사정) | ✅ | ✅ | ✅ 
-| Week 17</br>(24.11.17.) 프로젝트 기간 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
-| Week 18</br>(24.11.24.) 프로젝트 기간 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌
-| Week 19</br>(24.12.03.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 20</br>(24.12.10.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
-| Week 21</br>(24.12.17.) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅
-| Week 22</br>(24.12.24.) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅
-| Week 23</br>(24.12.24.) |  |  |  |  |  | 
+|  | 강지은 | 김용명 | 김유정 | 배성훈 | 윤이영 | 지유림 | 임채준
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [JieunKang](https://github.com/antisdun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) | [ChaejunLim](https://github.com/dlacowns21) |
+| Week 01</br>(24.07.23.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 02</br>(24.07.30.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 03</br>(24.08.06.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 04</br>(24.08.13.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 05</br>(24.08.20.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 06</br>(24.08.27.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 07</br>(24.09.03.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 08</br>(24.09.10.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 09</br>(24.09.17.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 10</br>(24.09.24.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 11</br>(24.10.01.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 12</br>(24.10.08.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 13</br>(24.10.15.) | ✅ | ❌(개인사정) | ✅ | ✅ | ✅ | ✅ |
+| Week 14</br>(24.10.22.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 15</br>(24.10.29.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+| Week 16</br>(24.11.05.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 16</br>(24.11.12.) | ✅ | ✅ | ❌(개인사정) | ✅ | ✅ | ✅ |
+| Week 17</br>(24.11.17.) 프로젝트 기간 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Week 18</br>(24.11.24.) 프로젝트 기간 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Week 19</br>(24.12.03.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 20</br>(24.12.10.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Week 21</br>(24.12.17.) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Week 22</br>(24.12.24.) | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Week 23</br>(24.12.31.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅
