@@ -1,0 +1,53 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+
+public class Main_3649 {
+    public static void main(String[] args) throws Exception{
+        BufferedReader br = new BufferedReader((new InputStreamReader(System.in)));
+        String str = "";
+
+        while ((str=br.readLine())!=null) {
+            long X = Integer.parseInt(str)*10000000L;
+            int N = Integer.parseInt(br.readLine());
+
+            long[] arr = new long[N];
+
+            for (int i = 0; i < N; i++) {
+                arr[i] = Long.parseLong(br.readLine());
+            }
+
+            Arrays.sort(arr);
+
+            int lo = 0;
+            int hi = N-1;
+
+            long l1 = -1;
+            long l2 = -1;
+
+            while (lo < hi) {
+                long sum = (long)arr[lo]+(long)arr[hi];
+
+                if (sum == X) {
+                    l1 = arr[lo];
+                    l2 = arr[hi];
+                    break;
+                }
+
+                if (sum > X) {
+                    hi -= 1;
+                } else {
+                    lo += 1;
+                }
+
+            }
+
+            if (l1 > 0) {
+                System.out.println("yes "+l1+" "+l2);
+            } else {
+                System.out.println("danger");
+            }
+        }
+
+    }
+}
