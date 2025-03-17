@@ -10,7 +10,7 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/antisdun"><img src="https://avatars.githubusercontent.com/antisdun" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/antdundun"><img src="https://avatars.githubusercontent.com/antdundun" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/kunzatt"><img src="https://avatars.githubusercontent.com/kunzatt" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/yujeong789"><img src="https://avatars.githubusercontent.com/yujeong789" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/baehoonbae"><img src="https://avatars.githubusercontent.com/baehoonbae" width="130px;" alt=""></a></td>
@@ -19,7 +19,7 @@
     <td align="center"><a href="https://github.com/zyu22"><img src="https://avatars.githubusercontent.com/dlacowns21" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/antisdun"><b>antisdun</b></a></td>
+    <td align="center"><a href="https://github.com/antdundun"><b>antdundun</b></a></td>
     <td align="center"><a href="https://github.com/kunzatt"><b>kunzatt</b></a></td>
     <td align="center"><a href="https://github.com/yujeong789"><b>yujeong789</b></a></td>
     <td align="center"><a href="https://github.com/baehoonbae"><b>baehoonbae</b></a></td>
@@ -65,7 +65,7 @@
 ## ✍ 풀이 상황
 |  | 강지은 | 김용명 | 김유정 | 배성훈 | 윤이영 | 지유림 | 임채준
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| GitHub | [JieunKang](https://github.com/antisdun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) | [ChaejunLim](https://github.com/dlacowns21) |
+| GitHub | [JieunKang](https://github.com/antdundun) | [YongmyungKim](https://github.com/kunzatt) | [YujeongKim](https://github.com/yujeong789) | [SeonghunBae](https://github.com/baehoonbae) |[YiyoungYoon](https://github.com/y20ng) |[YurimJi](https://github.com/zyu22) | [ChaejunLim](https://github.com/dlacowns21) |
 | Week 01</br>(24.07.23.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Week 02</br>(24.07.30.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Week 03</br>(24.08.06.) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
