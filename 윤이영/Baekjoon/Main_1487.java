@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main_1487 {
 	static int N, ans;
 	static int[][] arr;
 	static int min = 987654321;
